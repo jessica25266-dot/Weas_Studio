@@ -1,0 +1,7 @@
+build/
+*.hex
+*.elf
+*.bin
+arduino_secrets.h
+.vscode/
+.DS_Store
